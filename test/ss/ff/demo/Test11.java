@@ -8,4 +8,9 @@ public class Test11 {
     public void test(){
         System.out.printf("llll");
     }
+
+    @Test
+    public void test3(){
+        System.out.println("3333");
+    }
 }
