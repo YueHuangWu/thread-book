@@ -13,4 +13,9 @@ public class Test11 {
     public void test3(){
         System.out.println("3333");
     }
+
+    @Test
+    public void test444(){
+        System.out.printf("4444");
+    }
 }
